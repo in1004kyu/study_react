@@ -19,6 +19,7 @@
   "homepage": "https://github.com/in1004kyu/study_react#readme",
   "dependencies": {
     "react": "^15.6.1",
+    "react-addons-update": "^15.6.0",
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
